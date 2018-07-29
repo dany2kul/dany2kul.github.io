@@ -1,0 +1,14 @@
+h1 {
+  color: rgb(143, 47, 132);
+}
+
+.content {
+  max-width: 600px;
+  margin: auto;
+}
+
+h2 {
+  color: lightcoral;
+  margin: auto;
+  padding: 10px;
+}
